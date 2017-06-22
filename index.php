@@ -28,7 +28,7 @@ h1 img{
 </style>
 </head>
 <body>
-
+<main>
 <h1>☺➕🐟➡❤❓</h1>
 
 
@@ -127,5 +127,5 @@ echo '<br><button type="submit" name="💫" value="💫">💫</button></form>';
 
 
 
-?>
+?></main>
 </body>
